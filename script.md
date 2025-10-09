@@ -5,7 +5,7 @@
 
 ---
 
-## Introduction (0:00-1:00)
+## Introduction (0:00-1:00) (Empeno)
 
 Good morning, everyone. Today I'm presenting our research on multivariate statistical analysis of cardiovascular biomarkers using advanced discriminant function approaches.
 
@@ -20,7 +20,7 @@ The central research questions we addressed are:
 
 ---
 
-## Mathematical Framework (1:00-2:00)
+## Mathematical Framework (1:00-2:00) (Harvey)
 
 **[SLIDE: Mathematical Equations]**
 
@@ -38,7 +38,7 @@ Linear Discriminant Analysis finds the optimal linear combinations that maximize
 
 ---
 
-## Key Findings: MANOVA Results (2:00-3:00)
+## Key Findings: MANOVA Results (2:00-3:00) (Monfero)
 
 **[SLIDE: MANOVA Results Table]**
 
@@ -52,7 +52,7 @@ Looking at our exploratory visualizations, we can clearly see the systematic pat
 
 ---
 
-## Discriminant Analysis: Biomarker Importance (3:00-4:30)
+## Discriminant Analysis: Biomarker Importance (3:00-4:30) (Empeno)
 
 **[SLIDE: Discriminant Function Plot]**
 
@@ -71,7 +71,7 @@ where Z represents standardized values.
 
 ---
 
-## Classification Performance (4:30-5:30)
+## Classification Performance (4:30-5:30) (Harvey)
 
 **[SLIDE: Classification Results Table]**
 
@@ -87,7 +87,7 @@ The precision for identifying patients at hospitalization risk was 62%, with 42%
 
 ---
 
-## Clinical Implications and Conclusions (5:30-7:00)
+## Clinical Implications and Conclusions (5:30-7:00) (Monfero)
 
 **[SLIDE: Clinical Summary]**
 
@@ -107,7 +107,7 @@ The effect size of 92% explained variance is remarkable in biological research a
 
 ---
 
-## Future Directions (7:00-8:00)
+## Future Directions (7:00-8:00) (Empeno)
 
 **[SLIDE: Future Research]**
 

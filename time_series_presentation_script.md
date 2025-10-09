@@ -59,6 +59,66 @@ The key insight? **One size doesn't fit all.** Each sector requires specialized 
 
 ---
 
+## APPLY - Key Findings & Strategic Insights (2:40-5:00)
+
+### MetroMart - Retail Excellence with Growth Trajectory
+
+**[SLIDE: MetroMart Revenue Forecasting & Seasonality]**
+
+**[Presenter 2 - Ducay]**
+
+MetroMart shows **exceptional consistency** with projected 8.2% annual growth. Key findings:
+
+- **Peak season performance:** November-December sales spike 35% above baseline
+- **Forecast confidence:** 91% accuracy gives us reliable planning horizons
+- **Investment recommendation:** **STRONG BUY** - Retail fundamentals are solid
+
+**Strategic implication:** MetroMart's predictable seasonality makes it ideal for **supply chain optimization investments** and **targeted marketing spend**.
+
+### Phoenix Energy - Regulatory Compliance Champion  
+
+**[SLIDE: Phoenix Energy Demand Forecasting & Reserve Margins]**
+
+**[Presenter 3 - Monfero]**
+
+Phoenix Energy demonstrates **operational excellence** in a regulated environment:
+
+- **Reliability metrics:** 99.8% service availability maintained
+- **Regulatory compliance:** Exceeds required 15% reserve margin by 3.2%
+- **Demand forecasting:** 94% accuracy enables optimal capacity planning
+
+**Strategic implication:** Phoenix offers **stable, regulated returns** perfect for portfolio stability. Their predictive maintenance programs reduce operational risks significantly.
+
+### Smile Factory - Manufacturing Innovation Leader
+
+**[SLIDE: Smile Factory Production Optimization & Quality Metrics]**
+
+**[Presenter 1 - Empeno]**
+
+Smile Factory excels in **operational efficiency** with Six Sigma integration:
+
+- **Production capability:** Cpk index of 1.67 (world-class performance)
+- **Quality metrics:** 99.3% first-pass yield with continuous improvement
+- **Cost optimization:** $2.1M annual savings through predictive maintenance
+
+**Strategic implication:** Smile Factory represents **operational excellence** and is primed for **capacity expansion** or **technology transfer** opportunities.
+
+### Watcher Market - High-Risk, High-Reward Financial Play
+
+**[SLIDE: Watcher Market Volatility Analysis & Risk Metrics]**
+
+**[Presenter 2 - Ducay]**
+
+Watcher Market presents a **sophisticated financial opportunity**:
+
+- **Volatility profile:** 369% annual volatility requires active risk management  
+- **VaR analysis:** 95% VaR at -37.75% indicates significant downside risk
+- **Alpha generation:** Potential for substantial returns in skilled hands
+
+**Strategic implication:** Suitable for **tactical allocation** with **strict risk controls** - not a core holding but valuable for portfolio diversification.
+
+---
+
 ## TRANSFORM - Strategic Recommendations & Action Plan (6:20-8:00)
 
 **[SLIDE: Strategic Investment Allocation Recommendations]**
